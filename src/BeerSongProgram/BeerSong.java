@@ -1,3 +1,10 @@
+/* One of the things you'll read about in pragmatic programmers is the DRY principle: Don't Repeat Yourself.
+Looking over your code I noticed two areas where you could possibly Refactor in order to eliminate code repetition.
+Rewrite the code to see if you can get rid of the code duplication.
+
+Hint: introduce a method and a constant.
+*/
+
 package BeerSongProgram;
 
 public class BeerSong {
